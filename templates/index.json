@@ -116,7 +116,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Premium. Natural. Lemn. | Alătură-te celor peste 13.000 de clienți!",
+        "text": "Qualité supérieure. Naturel. Bois. | Rejoignez plus de 13 000 clients !",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -171,8 +171,8 @@
           "type": "item",
           "settings": {
             "title": "13.036+",
-            "subheading": "Clienți EVERWOOD® mulțumiți",
-            "content": "<p>Descoperă unul dintre cele mai apreciate branduri de ceasuri din lemn din România! Ceasurile noastre sunt realizate parțial manual, din esențe de lemn cu duritate ridicată.</p>",
+            "subheading": "Clients EVERWOOD® satisfaits",
+            "content": "<p>Découvrez l'une des marques de montres en bois les plus appréciées de Roumanie ! Nos montres sont partiellement fabriquées à la main, à partir d'essences de bois à haute dureté.</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
