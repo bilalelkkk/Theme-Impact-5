@@ -46,7 +46,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Instagram_post_-_165.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -54,66 +53,63 @@
         "overlay_opacity": 0
       }
     },
-    "media_grid_VyU4LM": {
-      "type": "media-grid",
+    "logo_list_UJtG7V": {
+      "type": "logo-list",
       "blocks": {
-        "image_pg6i4z": {
-          "type": "image",
+        "logo_e8khUN": {
+          "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/BLUE_RANGER_1.png",
-            "title": "Pentru Bărbați",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/colecția-de-quartz-pentru-barbați",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "logo": "shopify://shop_images/8K.svg",
+            "logo_width": 300,
+            "link": ""
           }
         },
-        "image_C9ELid": {
-          "type": "image",
+        "logo_VwMDmJ": {
+          "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/Fa_800_x_1200_keppont_2.png",
-            "title": "Pentru Femei",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/colecția-pentru-femei",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_fpgpNn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_iA4Tbm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 300,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "image_pg6i4z",
-        "image_C9ELid"
+        "logo_e8khUN",
+        "logo_VwMDmJ",
+        "logo_fpgpNn",
+        "logo_iA4Tbm"
       ],
-      "name": "Media grid",
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
         "background": "",
-        "background_gradient": ""
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "scrolling-text": {
@@ -133,17 +129,6 @@
     },
     "17688274172f9e8f62": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Rb8a8A": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Rb8a8A"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -273,7 +258,6 @@
         "image_JydVXB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Nevtelen_1500_x_1200_keppont_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -294,7 +278,6 @@
         "image_y9Cj4b": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Nevtelen_1500_x_1200_keppont_1_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -389,7 +372,6 @@
         "image_3khn7G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4.gif",
             "title": "Cele mai populare modele",
             "heading_tag": "h4",
             "link_url": "shopify://collections/cele-mai-populare-ceasuri",
@@ -411,7 +393,6 @@
         "image_FRrLEM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/10_6aae3f00-a673-4336-9085-c3ccf0bf87dc.png",
             "title": "AUTOMAT",
             "heading_tag": "h4",
             "link_url": "shopify://collections/colecție-automata",
@@ -434,7 +415,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/14_01fe0f02-c5fc-48ff-8061-546e27a0ceea.png",
             "title": "Pereche 1+1",
             "heading_tag": "h4",
             "link_url": "",
@@ -456,7 +436,6 @@
         "image_zjHKH8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/APAK-NAPI_LEARAZAS_1660_x_650_keppont_1660_x_800_keppont_2.png",
             "title": "Colecția LEAF",
             "heading_tag": "h4",
             "link_url": "",
@@ -494,17 +473,6 @@
     },
     "1768827666845ee948": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_r7iEha": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_r7iEha"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -575,8 +543,6 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/Nevtelen_2500_x_1200_keppont.png",
-        "mobile_image": "shopify://shop_images/Nevtelen_terv_24.png",
         "title": "",
         "content": "",
         "button_text": "",
@@ -722,7 +688,6 @@
         "image_wQwkU3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Fa_800_x_1200_keppont_4.png",
             "title": "Ceasuri din lemn și cu inserții din lemn",
             "heading_tag": "h4",
             "link_url": "shopify://collections/colecția-de-quartz-pentru-barbați",
@@ -744,7 +709,6 @@
         "image_AUEz6t": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Fa_800_x_1200_keppont_2.png",
             "title": "Colecție pentru femei",
             "heading_tag": "h4",
             "link_url": "shopify://collections/colecția-pentru-femei",
@@ -781,7 +745,7 @@
   },
   "order": [
     "image_with_text_overlay_Mh8JDy",
-    "media_grid_VyU4LM",
+    "logo_list_UJtG7V",
     "scrolling-text",
     "17688274172f9e8f62",
     "featured_collection_68TJR7",
