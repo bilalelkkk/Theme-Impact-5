@@ -143,7 +143,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "cele-mai-populare-ceasuri",
-        "products": [],
+        "products": [
+          "legging-3d-keralis-lisse-et-sculpte"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
@@ -151,8 +153,8 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Cele mai populare modele",
-        "content": "<p><strong>Peste 2600 de recenzii | 13.000+ clienți mulțumiți</strong></p>",
+        "title": "Les modèles les plus populaires",
+        "content": "<p>Plus de 2 600 avis | Plus de 13 000 clients satisfaits</p>",
         "link_url": "",
         "link_text": "",
         "background": "",
@@ -231,7 +233,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "colecția-de-quartz-pentru-barbați",
-        "products": [],
+        "products": [
+          "legging-3d-keralis-lisse-et-sculpte"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
