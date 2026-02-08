@@ -227,10 +227,6 @@
     "featured_product_9pMh7i": {
       "type": "featured-product",
       "blocks": {
-        "vendor_YYgGd9": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_mmkehh": {
           "type": "title",
           "settings": {
@@ -251,18 +247,6 @@
           "type": "rating",
           "settings": {
             "show_empty": false
-          }
-        },
-        "separator_mQpF48": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_qnTiRa": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
           }
         },
         "variant_picker_NA4pTi": {
@@ -297,13 +281,10 @@
         }
       },
       "block_order": [
-        "vendor_YYgGd9",
         "title_mmkehh",
         "badges_4ewP8n",
         "price_dcHEKQ",
         "rating_AtURXq",
-        "separator_mQpF48",
-        "description_qnTiRa",
         "variant_picker_NA4pTi",
         "quantity_selector_zWWKFz",
         "buy_buttons_K9Emyw",
@@ -316,10 +297,10 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
@@ -453,10 +434,10 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Il nostro servizio di assistenza clienti è disponibile dal lunedì al venerdì, dalle 8:00 alle 20:30",
+        "answer_time": "Tempo medio di risposta: 24 ore",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
