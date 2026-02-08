@@ -334,10 +334,11 @@
         "item_BPmWCA": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/1.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -346,10 +347,11 @@
         "item_nGcmVX": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/2.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -358,10 +360,37 @@
         "item_nReAgf": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/3.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_THbLbX": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/4.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3Q8RrY": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/5.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -371,17 +400,19 @@
       "block_order": [
         "item_BPmWCA",
         "item_nGcmVX",
-        "item_nReAgf"
+        "item_nReAgf",
+        "item_THbLbX",
+        "item_3Q8RrY"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Oltre 3.000 donne l'hanno scelto, e tu?",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
