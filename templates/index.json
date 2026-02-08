@@ -112,19 +112,30 @@
         "logo_item_border": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
+    "rich_text_DhwQPt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PYUqpg": {
+          "type": "heading",
+          "settings": {
+            "text": "Perché scegliere i leggings 3D?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PYUqpg"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "text": "Qualité supérieure. Naturel. Bois. | Rejoignez plus de 13 000 clients !",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "text_gradient": "linear-gradient(310deg, rgba(7, 68, 0, 1) 15%, rgba(17, 170, 0, 1) 51.799%, rgba(17, 170, 0, 1) 89%)"
+        "text_color": ""
       }
     },
     "17688274172f9e8f62": {
@@ -136,6 +147,22 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_CTfGEG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Pk.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "featured_collection_68TJR7": {
@@ -750,8 +777,9 @@
   "order": [
     "image_with_text_overlay_Mh8JDy",
     "logo_list_UJtG7V",
-    "scrolling-text",
+    "rich_text_DhwQPt",
     "17688274172f9e8f62",
+    "image_with_text_overlay_CTfGEG",
     "featured_collection_68TJR7",
     "impact_text_eRJnkg",
     "featured_collection_UNgMKV",
