@@ -76,6 +76,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_EkfH3e": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous à notre newsletter",
+            "content": ""
+          }
+        },
         "text_JgQmjY": {
           "type": "text",
           "settings": {
@@ -86,6 +95,7 @@
         }
       },
       "block_order": [
+        "newsletter_EkfH3e",
         "text_JgQmjY"
       ],
       "settings": {
