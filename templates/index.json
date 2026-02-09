@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify://shop_images/A.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "<p>\"Non osavo più mettermi i pantaloncini o andare in spiaggia. Dopo 2 mesi con i leggings 3D Keralis, indossandoli 2 ore al giorno, la mia pelle è più liscia e ho finalmente ritrovato fiducia in me stessa.\"</p>",
             "link_url": "",
@@ -186,7 +186,7 @@
           "settings": {
             "image": "shopify://shop_images/B.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "<p>\"Ero scettica all'inizio, ma dopo alcuni mesi indossando i leggings 2 ore al giorno, la mia pelle è più liscia e ho perso diversi chili senza sforzo. È diventata la mia routine quotidiana!\"</p>",
             "link_url": "",
@@ -199,7 +199,7 @@
           "settings": {
             "image": "shopify://shop_images/C.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "<p>\"Pensavo fosse solo l'ennesimo legging di moda... invece no. Ho davvero visto risultati sulla mia cellulite e non ho cambiato nulla nella mia routine. Lo consiglio vivamente.\"</p>",
             "link_url": "",
@@ -212,7 +212,7 @@
           "settings": {
             "image": "shopify://shop_images/D.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "<p>\"Dopo solo 3 settimane di utilizzo costante, ho notato la differenza. Le mie gambe sono più toniche e la cellulite è meno visibile. Finalmente un prodotto che mantiene le promesse!\"</p>",
             "link_url": "",
@@ -232,10 +232,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Adorano la loro trasformazione 💖",
+        "content": "<p>Cellulite attenuata, silhouette rimodellata... Scopri cosa ne pensano dopo pochi giorni ✨</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
