@@ -118,7 +118,7 @@
         "heading_PYUqpg": {
           "type": "heading",
           "settings": {
-            "text": "Perché scegliere i leggings 3D?",
+            "text": "Perché scegliere i Legging 3D?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -243,6 +243,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_BybJHK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "rating_AtURXq": {
           "type": "rating",
           "settings": {
@@ -284,6 +290,7 @@
         "title_mmkehh",
         "badges_4ewP8n",
         "price_dcHEKQ",
+        "liquid_BybJHK",
         "rating_AtURXq",
         "variant_picker_NA4pTi",
         "quantity_selector_zWWKFz",
