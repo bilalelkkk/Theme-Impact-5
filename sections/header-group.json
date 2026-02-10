@@ -11,6 +11,32 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_VKdX8q": {
+          "type": "message",
+          "settings": {
+            "text": "Spedizione Gratuita - Spedito entro 24h",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_VKdX8q"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "autoplay": false,
+        "cycle_speed": 4,
+        "text_size": "text-xs",
+        "navigation_mode": "arrows",
+        "scrolling_speed": 10,
+        "background": "#c38786",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -33,56 +59,6 @@
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
-      }
-    },
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "message_VKdX8q": {
-          "type": "message",
-          "settings": {
-            "text": "Offre d'automne limitée, jusqu'à 50 % de réduction",
-            "url": ""
-          }
-        },
-        "message_Jqwbyz": {
-          "type": "message",
-          "settings": {
-            "text": "Paiement 100% sécurisé",
-            "url": ""
-          }
-        },
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "Livraison gratuite",
-            "url": ""
-          }
-        },
-        "message_pPbVj6": {
-          "type": "message",
-          "settings": {
-            "text": "Satisfait ou remboursé",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message_VKdX8q",
-        "message_Jqwbyz",
-        "message",
-        "message_pPbVj6"
-      ],
-      "settings": {
-        "enable_sticky": true,
-        "autoplay": false,
-        "cycle_speed": 6,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#c38786",
-        "background_gradient": "",
-        "text_color": "#ffffff"
       }
     }
   },
