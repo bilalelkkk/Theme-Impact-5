@@ -458,29 +458,45 @@
         "item_M3V9X6": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Come la compressione mi aiuta a perdere peso?",
+            "content": "<p>La compressione dei nostri leggings crea una resistenza per i tuoi muscoli, obbligando le tue gambe a lavorare 2-3 volte più intensamente rispetto a quando non indossi i leggings.</p><p>Quando i tuoi muscoli lavorano più intensamente, bruciano più calorie per produrre energia, il che ti aiuta a perdere peso 2 volte più velocemente.</p>"
           }
         },
         "item_EndwBe": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Come scegliere la taglia giusta?",
+            "content": "<p>I nostri leggings vestono normalmente. Ti consigliamo di prendere la tua taglia abituale di pantaloni. Se esiti tra due taglie, scegli la taglia superiore per maggiore comfort.</p><p>Una guida alle taglie è disponibile direttamente sulla pagina per aiutarti. E in caso di dubbi, il nostro servizio clienti può consigliarti, ed è possibile effettuare un cambio se la taglia non è adatta.</p>"
           }
         },
         "item_xL9RiF": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Come le linee modellanti mi aiutano a ridurre la cellulite?",
+            "content": "<p>Le nostre linee modellanti sono posizionate strategicamente per comprimere le cosce e i glutei, aumentando la circolazione sanguigna del 30%.</p><p>Una migliore circolazione permette al tuo corpo di eliminare più efficacemente le cellule adipose e le tossine responsabili della cellulite, trattando la causa principale.</p><p>Combinate con la nostra compressione, permettono anche di allenare le gambe, donandoti gambe sode e toniche.</p>"
+          }
+        },
+        "item_cFhQT6": {
+          "type": "item",
+          "settings": {
+            "title": "I leggings Keralis sono opachi?",
+            "content": "<p>SÌ! Garantiamo che i leggings Keralis rimangono completamente opachi anche durante movimenti intensi o stiramenti.</p>"
+          }
+        },
+        "item_XEatky": {
+          "type": "item",
+          "settings": {
+            "title": "Consegna gratuita in 5-7 giorni",
+            "content": "<p>Tutti gli ordini beneficiano della consegna gratuita. Il tempo di consegna stimato è di 5-7 giorni.</p>"
           }
         }
       },
       "block_order": [
         "item_M3V9X6",
         "item_EndwBe",
-        "item_xL9RiF"
+        "item_xL9RiF",
+        "item_cFhQT6",
+        "item_XEatky"
       ],
       "name": "FAQ",
       "settings": {
