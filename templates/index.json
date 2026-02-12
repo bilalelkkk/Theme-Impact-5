@@ -291,10 +291,11 @@
             "liquid": "<style>\n  .benefits-section {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 0;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .benefit-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 12px;\n  }\n  .benefit-item:last-child {\n    margin-bottom: 0;\n  }\n  .benefit-icon {\n    width: 35px;\n    height: 35px;\n    min-width: 35px;\n    background: linear-gradient(135deg, #C38786 0%, #D49E9D 100%);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    box-shadow: 0 2px 10px rgba(195, 135, 134, 0.4);\n  }\n  .benefit-icon svg {\n    width: 16px;\n    height: 16px;\n    stroke: #FFFFFF;\n    stroke-width: 3;\n    fill: none;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n  .benefit-text {\n    font-size: 16px;\n    font-weight: 700;\n    color: #2D2D2D;\n    line-height: 1.3;\n  }\n  @media (max-width: 768px) {\n    .benefit-text {\n      font-size: 14px;\n    }\n    \n    .benefit-icon {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n    }\n    .benefit-icon svg {\n      width: 14px;\n      height: 14px;\n    }\n    .benefit-item {\n      margin-bottom: 10px;\n    }\n  }\n</style>\n<div class=\"benefits-section\">\n  <ul class=\"benefits-list\">\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\">\n          <polyline points=\"20 6 9 17 4 12\"></polyline>\n        </svg>\n      </div>\n      <span class=\"benefit-text\">Riduci la cellulite più velocemente</span>\n    </li>\n    \n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\">\n          <polyline points=\"20 6 9 17 4 12\"></polyline>\n        </svg>\n      </div>\n      <span class=\"benefit-text\">Tonifica le tue gambe senza sforzo</span>\n    </li>\n    \n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\">\n          <polyline points=\"20 6 9 17 4 12\"></polyline>\n        </svg>\n      </div>\n      <span class=\"benefit-text\">Rassoda i tuoi glutei istantaneamente</span>\n    </li>\n    \n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\">\n          <polyline points=\"20 6 9 17 4 12\"></polyline>\n        </svg>\n      </div>\n      <span class=\"benefit-text\">Ritrova una silhouette sexy</span>\n    </li>\n  </ul>\n</div>"
           }
         },
-        "price_dcHEKQ": {
-          "type": "price",
+        "kaching_bundles_app_block_fUNHW4": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "show_taxes_notice": false
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
           }
         },
         "buy_buttons_K9Emyw": {
@@ -327,7 +328,7 @@
         "rating_AtURXq",
         "variant_picker_NA4pTi",
         "liquid_7AptQM",
-        "price_dcHEKQ",
+        "kaching_bundles_app_block_fUNHW4",
         "buy_buttons_K9Emyw",
         "liquid_Pneqet",
         "pickup_availability_B9wtVe"
