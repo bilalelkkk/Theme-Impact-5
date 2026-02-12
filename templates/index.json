@@ -274,17 +274,6 @@
             "show_empty": false
           }
         },
-        "variant_picker_NA4pTi": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
         "liquid_7AptQM": {
           "type": "liquid",
           "settings": {
@@ -326,7 +315,6 @@
         "badges_4ewP8n",
         "liquid_BybJHK",
         "rating_AtURXq",
-        "variant_picker_NA4pTi",
         "liquid_7AptQM",
         "kaching_bundles_app_block_fUNHW4",
         "buy_buttons_K9Emyw",
