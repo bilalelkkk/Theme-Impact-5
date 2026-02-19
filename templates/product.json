@@ -52,6 +52,12 @@
             "collapse_content": false
           }
         },
+        "liquid_DdbLGC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Solo pochi articoli in stock</strong> – Affrettatevi.\n  </span>\n</div>\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -78,6 +84,7 @@
         "rating",
         "payment_terms",
         "description",
+        "liquid_DdbLGC",
         "buy_buttons",
         "liquid_hMyrTy"
       ],
