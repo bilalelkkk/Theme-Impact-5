@@ -101,7 +101,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Visto su :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -120,7 +120,7 @@
         "heading_PYUqpg": {
           "type": "heading",
           "settings": {
-            "text": "Perché scegliere i Legging 3D?",
+            "text": "Pourquoi choisir le legging 3D ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -177,7 +177,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>\"Non osavo più mettermi i pantaloncini o andare in spiaggia. Dopo 2 mesi con i leggings 3D Keralis, indossandoli 2 ore al giorno, la mia pelle è più liscia e ho finalmente ritrovato fiducia in me stessa.\"</p>",
+            "content": "<p>« Je n'osais plus porter de shorts ni aller à la plage. Après deux mois à porter les leggings Keralis 3D, à raison de deux heures par jour, ma peau est plus lisse et j'ai enfin retrouvé confiance en moi. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -190,7 +190,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>\"Ero scettica all'inizio, ma dopo alcuni mesi indossando i leggings 2 ore al giorno, la mia pelle è più liscia e ho perso diversi chili senza sforzo. È diventata la mia routine quotidiana!\"</p>",
+            "content": "<p>« J'étais sceptique au début, mais après quelques mois à porter les leggings deux heures par jour, ma peau est plus lisse et j'ai perdu plusieurs kilos sans effort. C'est devenu ma routine quotidienne ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -203,7 +203,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>\"Pensavo fosse solo l'ennesimo legging di moda... invece no. Ho davvero visto risultati sulla mia cellulite e non ho cambiato nulla nella mia routine. Lo consiglio vivamente.\"</p>",
+            "content": "<p>« Je pensais que c'était juste un autre legging à la mode… mais pas du tout. J'ai vraiment constaté des résultats sur ma cellulite et je n'ai rien changé à mes habitudes. Je les recommande vivement. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -216,7 +216,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>\"Dopo solo 3 settimane di utilizzo costante, ho notato la differenza. Le mie gambe sono più toniche e la cellulite è meno visibile. Finalmente un prodotto che mantiene le promesse!\"</p>",
+            "content": "<p>« Après seulement 3 semaines d'utilisation régulière, j'ai constaté une différence. Mes jambes sont plus toniques et la cellulite est moins visible. Enfin un produit qui tient ses promesses ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -236,8 +236,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Adorano la loro trasformazione 💖",
-        "content": "<p>Cellulite attenuata, silhouette rimodellata... Scopri cosa ne pensano dopo pochi giorni ✨</p>",
+        "title": "Elles adorent leur transformation 💖",
+        "content": "<p>Cellulite réduite, silhouette redessinée… Découvrez leur avis après quelques jours ✨</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -430,7 +430,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Oltre 3.000 donne l'hanno scelto, e tu?",
+        "title": "Plus de 3 000 femmes l'ont choisi, et vous ?",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -456,36 +456,36 @@
         "item_M3V9X6": {
           "type": "item",
           "settings": {
-            "title": "Come la compressione mi aiuta a perdere peso?",
-            "content": "<p>La compressione dei nostri leggings crea una resistenza per i tuoi muscoli, obbligando le tue gambe a lavorare 2-3 volte più intensamente rispetto a quando non indossi i leggings.</p><p>Quando i tuoi muscoli lavorano più intensamente, bruciano più calorie per produrre energia, il che ti aiuta a perdere peso 2 volte più velocemente.</p>"
+            "title": "Comment la compression m'aide-t-elle à perdre du poids ?",
+            "content": "<p>La compression de nos leggings crée une résistance qui sollicite vos muscles, les obligeant à travailler 2 à 3 fois. <br/><br/>Plus vos muscles travaillent, plus ils brûlent de calories, ce qui vous aide à perdre du poids deux fois plus vite.</p>"
           }
         },
         "item_EndwBe": {
           "type": "item",
           "settings": {
-            "title": "Come scegliere la taglia giusta?",
-            "content": "<p>I nostri leggings vestono normalmente. Ti consigliamo di prendere la tua taglia abituale di pantaloni. Se esiti tra due taglie, scegli la taglia superiore per maggiore comfort.</p><p>Una guida alle taglie è disponibile direttamente sulla pagina per aiutarti. E in caso di dubbi, il nostro servizio clienti può consigliarti, ed è possibile effettuare un cambio se la taglia non è adatta.</p>"
+            "title": "Comment choisir la bonne taille ?",
+            "content": "<p>Nos leggings taillent normalement. Nous vous recommandons de commander votre taille habituelle. <br/><br/>Si vous hésitez entre deux tailles, choisissez la taille supérieure pour plus de confort. Un guide des tailles est disponible directement sur cette page pour vous aider. <br/><br/>Pour toute question, notre service client est à votre disposition. <br/><br/>Les échanges sont possibles si la taille ne vous convient pas.</p>"
           }
         },
         "item_xL9RiF": {
           "type": "item",
           "settings": {
-            "title": "Come le linee modellanti mi aiutano a ridurre la cellulite?",
-            "content": "<p>Le nostre linee modellanti sono posizionate strategicamente per comprimere le cosce e i glutei, aumentando la circolazione sanguigna del 30%.</p><p>Una migliore circolazione permette al tuo corpo di eliminare più efficacemente le cellule adipose e le tossine responsabili della cellulite, trattando la causa principale.</p><p>Combinate con la nostra compressione, permettono anche di allenare le gambe, donandoti gambe sode e toniche.</p>"
+            "title": "Comment les lignes sculptantes peuvent-elles m'aider à réduire la cellulite ?",
+            "content": "<p>Nos lignes sculptantes sont stratégiquement placées pour compresser les cuisses et les fesses, augmentant ainsi la circulation sanguine de 30 %. <br/><br/>Une meilleure circulation permet à votre corps d'éliminer plus efficacement les cellules graisseuses et les toxines responsables de la cellulite, traitant ainsi la cause profonde du problème. <br/><br/>Associées à la compression, elles permettent également de muscler les jambes, pour des jambes fermes et toniques.</p>"
           }
         },
         "item_cFhQT6": {
           "type": "item",
           "settings": {
-            "title": "I leggings Keralis sono opachi?",
-            "content": "<p>SÌ! Garantiamo che i leggings Keralis rimangono completamente opachi anche durante movimenti intensi o stiramenti.</p>"
+            "title": "Les leggings Keralis sont-ils opaques ?",
+            "content": "<p>Oui ! Nous garantissons que les leggings Keralis restent totalement opaques même lors de mouvements intenses ou d'étirements.</p>"
           }
         },
         "item_XEatky": {
           "type": "item",
           "settings": {
-            "title": "Consegna gratuita in 5-7 giorni",
-            "content": "<p>Tutti gli ordini beneficiano della consegna gratuita. Il tempo di consegna stimato è di 5-7 giorni.</p>"
+            "title": "Livraison gratuite en 5 à 9 jours",
+            "content": "<p>Toutes les commandes bénéficient de la livraison gratuite. Délai de livraison estimé : 5 à 9 jours.</p>"
           }
         }
       },
