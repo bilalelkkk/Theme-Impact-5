@@ -170,36 +170,10 @@
     "multi_column_itRJD7": {
       "type": "multi-column",
       "blocks": {
-        "item_WhcWzi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/A.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>« Je n'osais plus porter de shorts ni aller à la plage. Après deux mois à porter les leggings Keralis 3D, à raison de deux heures par jour, ma peau est plus lisse et j'ai enfin retrouvé confiance en moi. »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9j4Y8F": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/B.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>« J'étais sceptique au début, mais après quelques mois à porter les leggings deux heures par jour, ma peau est plus lisse et j'ai perdu plusieurs kilos sans effort. C'est devenu ma routine quotidienne ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_fY8X9E": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/C.png",
+            "image": "shopify://shop_images/Avis_3.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -221,13 +195,39 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_9j4Y8F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis_2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>« J'étais sceptique au début, mais après quelques mois à porter les leggings deux heures par jour, ma peau est plus lisse et j'ai perdu plusieurs kilos sans effort. C'est devenu ma routine quotidienne ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WhcWzi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis_1.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>« Je n'osais plus porter de shorts ni aller à la plage. Après deux mois à porter les leggings Keralis 3D, à raison de deux heures par jour, ma peau est plus lisse et j'ai enfin retrouvé confiance en moi. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_WhcWzi",
-        "item_9j4Y8F",
         "item_fY8X9E",
-        "item_FLbfdG"
+        "item_FLbfdG",
+        "item_9j4Y8F",
+        "item_WhcWzi"
       ],
       "name": "Multi-column",
       "settings": {
