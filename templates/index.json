@@ -457,7 +457,7 @@
           "type": "item",
           "settings": {
             "title": "Comment la compression m'aide-t-elle à perdre du poids ?",
-            "content": "<p>La compression de nos leggings crée une résistance qui sollicite vos muscles, les obligeant à travailler 2 à 3 fois. <br/><br/>Plus vos muscles travaillent, plus ils brûlent de calories, ce qui vous aide à perdre du poids deux fois plus vite.</p>"
+            "content": "<p>La compression de nos leggings crée une résistance qui sollicite vos muscles, les obligeant à travailler 2 à 3 fois plus.<br/><br/>Plus vos muscles travaillent, plus ils brûlent de calories, ce qui vous aide à perdre du poids deux fois plus vite.</p>"
           }
         },
         "item_EndwBe": {
@@ -484,8 +484,8 @@
         "item_XEatky": {
           "type": "item",
           "settings": {
-            "title": "Livraison gratuite en 5 à 9 jours",
-            "content": "<p>Toutes les commandes bénéficient de la livraison gratuite. Délai de livraison estimé : 5 à 9 jours.</p>"
+            "title": "Livraison offerte",
+            "content": "<p>Toutes les commandes bénéficient de la livraison offerte. <br/><br/>Délai de livraison estimé : 5 à 9 jours.</p>"
           }
         }
       },
