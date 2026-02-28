@@ -20,8 +20,8 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contattaci",
-        "title": "Hai qualche domanda?",
+        "subheading": "Contactez-nous",
+        "title": "Avez-vous des questions ?",
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
